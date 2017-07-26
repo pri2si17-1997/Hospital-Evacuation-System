@@ -1,0 +1,1 @@
+{1: 'Good hospital', 2: "It's running only", 3: 'Because of', 4: 'Dr.', 5: 'Dheeraj Dewan', 6: 'Gold medallist', 7: 'Some of area is smelling badly...', 8: 'Some of area is not cleaning', 9: 'Some room top paint got down', 10: "They don't have a parking facility", 11: 'Good service, qualified doctors.', 12: 'No.', 13: '1 hospital in bahadurgarh', 14: 'Nice Services', 15: 'Good'}

@@ -1,0 +1,1 @@
+{1: [('Good', 'JJ')], 2: [('Good', 'JJ')], 3: [('Vest', 'NNP'), ('hospital', 'NN')], 4: [('Green', 'JJ'), ('hosptail', 'NN')]}

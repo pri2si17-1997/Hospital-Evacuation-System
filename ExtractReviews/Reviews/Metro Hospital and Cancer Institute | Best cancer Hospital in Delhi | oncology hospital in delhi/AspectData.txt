@@ -1,0 +1,1 @@
+[('ICU', 3), ('HOSPITAL', 3), ('DISCHARGE', 2), ('MOTHER', 2)]

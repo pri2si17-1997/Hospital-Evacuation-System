@@ -1,0 +1,1 @@
+{1: 'Went for an emergency case, medical service was good but the hospital itself was worst.', 2: "Anyone can catch diseases if they go use this hospital's toilets.", 3: 'Plus dirty floors and messy ticket counters.', 4: 'good', 5: 'Good', 6: 'Health check up', 7: 'Nice'}

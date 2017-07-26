@@ -1,0 +1,1 @@
+{1: 'Good hospital and cleanliness.', 2: 'Went to get rabies shot and came out within 10 minutes as they treated it as an Emergency case.', 3: 'Good service!!', 4: '!', 5: 'Batter cleanliness then others, treated very well', 6: 'Not bad good hospital like 5 star', 7: 'NC joshi Hospital', 8: 'Good service'}

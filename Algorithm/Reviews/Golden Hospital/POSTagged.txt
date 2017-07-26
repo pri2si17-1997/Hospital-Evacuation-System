@@ -1,0 +1,1 @@
+{1: [('Good', 'JJ'), ('hospital', 'NN')], 2: [('Best', 'JJS')], 3: [('Good', 'JJ'), ('Hospital', 'NN')], 4: [('Trusted', 'VBN'), ('doctors', 'NNS')]}

@@ -1,0 +1,1 @@
+{1: 'No 24 hrs service for emergency patients, not so good.', 2: 'Would not recommend to any one...', 3: 'good staff', 4: 'Nice hospital, supporting staff', 5: 'Good hospital & helpful staff!', 6: 'good'}

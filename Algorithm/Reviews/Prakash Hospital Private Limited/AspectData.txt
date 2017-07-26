@@ -1,0 +1,1 @@
+[('HOSPITAL', 7), ('ICU', 5), ('PATIENT', 5), ('BIT', 2), ('BAD HOSPITAL', 2), ('ECHS', 2), ('DR', 2)]

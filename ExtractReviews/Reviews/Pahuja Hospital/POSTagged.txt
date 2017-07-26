@@ -1,0 +1,1 @@
+{1: [('best', 'JJS'), ('hosital', 'NN')], 2: [('Nice', 'NNP'), ('Hospital', 'NNP'), ('all', 'DT'), ('facilities', 'NNS'), ('easily', 'RB'), ('available', 'JJ'), ('...', ':')], 3: [('good', 'JJ')], 4: [('Pahuja', 'NNP'), ('hospital', 'NN')], 5: [('Urology', 'NN'), ('and', 'CC'), ('ultrasound', 'NN'), ('center', 'NN')], 6: [('Shabnam', 'NNP'), ('.', '.')]}

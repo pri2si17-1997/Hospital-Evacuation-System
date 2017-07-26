@@ -1,0 +1,1 @@
+{1: 'Good for emergency, good hospital', 2: '24×7  emergency care', 3: 'The emergency team is okay , but they need to improve in lots of things.', 4: 'IEC', 5: 'A Multispeciality Hospital'}

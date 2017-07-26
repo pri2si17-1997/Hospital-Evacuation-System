@@ -1,0 +1,1 @@
+{1: [('Staff', 'NNP'), ('is', 'VBZ'), ('very', 'RB'), ('supportive', 'JJ'), ('&', 'CC'), ('well', 'RB'), ('educated', 'VBN'), ('.', '.')], 2: [('staff', 'NN'), ('is', 'VBZ'), ('best', 'RBS')], 3: [('Good', 'JJ'), ('nursing', 'NN'), ('facility', 'NN')], 4: [('Good', 'JJ'), ('hospital', 'NN')]}

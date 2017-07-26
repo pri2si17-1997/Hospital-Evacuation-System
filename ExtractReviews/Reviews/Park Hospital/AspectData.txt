@@ -1,0 +1,1 @@
+[('HOSPITAL', 7), ('PATIENT', 3), ('MONEY', 3), ('CARE', 3), ('MANNER', 2), ('QUALITY', 2)]

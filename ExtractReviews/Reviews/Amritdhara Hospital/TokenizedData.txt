@@ -1,0 +1,1 @@
+{1: 'Amritdhara is very famous & good hospital in Karnal', 2: 'Good doctor', 3: "It's under condition", 4: 'Awesome'}

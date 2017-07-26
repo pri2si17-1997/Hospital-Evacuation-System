@@ -1,0 +1,1 @@
+[('MOTHER', 4), ('AMBEDKAR HOSPITAL', 3), ('HOSPITAL', 3), ('PITT KI PATHRI', 2), ('PROBLEM', 2), ('NIGHT', 2), ('SUFFICE', 2)]

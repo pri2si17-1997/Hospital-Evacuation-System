@@ -1,0 +1,1 @@
+{1: [('The', 'DT'), ('doctors', 'NNS'), ('are', 'VBP'), ('good', 'JJ'), ('and', 'CC'), ('hospital', 'NN'), ('is', 'VBZ'), ('just', 'RB'), ('ok', 'JJ'), ('.', '.')], 2: [('Good', 'JJ'), ('service', 'NN'), ('and', 'CC'), ('staff', 'NN')], 3: [('Bobby', 'NNP'), ('Rajput', 'NNP')], 4: [('Good', 'JJ')], 5: [('Doctor', 'NN')]}

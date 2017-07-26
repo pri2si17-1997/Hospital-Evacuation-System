@@ -1,0 +1,1 @@
+[('HOSPITAL', 6), ('STAFF', 4), ('DR', 4), ('CARE', 3), ('TIME', 3), ('SHANTI', 2), ('DELIVERY', 2)]

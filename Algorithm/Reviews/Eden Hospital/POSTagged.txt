@@ -1,0 +1,1 @@
+{1: [('Nice', 'NNP'), ('hospital', 'NN'), (',', ','), ('providing', 'VBG'), ('cashless', 'JJ'), ('facility', 'NN'), ('.', '.')], 2: [('Cashless', 'NNP'), ('Facility', 'NNP'), ('also', 'RB'), ('available', 'JJ')], 3: [('Eden', 'NNP'), ('hospitel', 'NN')], 4: [('good', 'JJ'), ('cashless', 'NN'), ('facility', 'NN')], 5: [('okay', 'JJ'), ('okay', 'NN'), ('types', 'NNS')]}

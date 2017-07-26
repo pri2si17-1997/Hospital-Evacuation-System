@@ -1,0 +1,1 @@
+{1: [('Affordable', 'JJ'), ('Rates', 'NNS')], 2: [('V', 'NNP'), ('gud', 'NN')], 3: [('Hate', 'NNP'), ('service', 'NN')], 4: [('Kidney', 'NNP'), ('Hospital', 'NNP')], 5: [('good', 'JJ'), ('.', '.')]}

@@ -1,0 +1,1 @@
+{1: 'Good for small treatment or any emergency case', 2: 'good hospital and staff', 3: 'Having Good Facilities and Space', 4: 'Best Hospital In ghaziabad', 5: 'Best surgeon in ghaziabad'}

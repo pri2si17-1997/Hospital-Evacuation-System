@@ -1,0 +1,1 @@
+{1: [('Good', 'JJ'), ('hospital', 'NN'), ('with', 'IN'), ('all', 'DT'), ('facilities', 'NNS')], 2: [('Good', 'JJ'), ('hospital', 'NN')], 3: [('Easily', 'RB'), ('reachable', 'JJ'), ('...', ':')]}

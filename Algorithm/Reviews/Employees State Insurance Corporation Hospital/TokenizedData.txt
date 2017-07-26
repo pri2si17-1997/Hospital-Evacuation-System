@@ -1,0 +1,1 @@
+{1: 'Cleaning is good but staff not so well behavior', 2: 'Good hospital good services faster recovery.', 3: 'Cleanliness wise awesom!', 4: 'Esic hospital,.', 5: 'Well maintained cleaned,', 6: 'HOSPITAL IS GOOD.', 7: "BUT IT'S EMPLOYEES ARE WORST.", 8: 'Good service and all facilities....'}

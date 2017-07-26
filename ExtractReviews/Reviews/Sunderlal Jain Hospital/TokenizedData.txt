@@ -1,0 +1,1 @@
+{1: 'I have an thought about urologist Dr.', 2: 'R.k.', 3: 'chaudhiri.he is worse doctor.', 4: 'Careless ,unpleasant person.', 5: 'Great team of enthusiastic doctors.', 6: 'Economical, prompt, trustworthy and Excellent Hospital.', 7: 'Amazing hospital......my bro get a great birth with luxurious facalities..', 8: 'pathetic hospital,,,they do business with the life of people'}

@@ -1,0 +1,1 @@
+{1: 'GOVERNMENT AIDED HOSPITAL FOR CHEAPER TREATMENT.', 2: 'Good tratments', 3: 'Crowded place, lack of doctors', 4: 'Good hospital', 5: 'Good hospital best service & low paid money'}

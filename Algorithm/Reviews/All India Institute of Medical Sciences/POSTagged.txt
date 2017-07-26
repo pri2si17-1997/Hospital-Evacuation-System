@@ -1,0 +1,1 @@
+{1: [('Good', 'JJ'), ('for', 'IN'), ('us', 'PRP'), ('...', ':')], 2: [('Haryana-', 'NNP'), ('s', 'NN'), ('tina+na', 'NN')], 3: [('Ultimate', 'NN')], 4: [('Very', 'RB'), ('good', 'JJ'), ('hospital', 'NN')]}

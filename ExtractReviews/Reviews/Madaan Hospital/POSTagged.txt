@@ -1,0 +1,1 @@
+{1: [('Not', 'RB'), ('the', 'DT'), ('best', 'JJS'), ('hospital', 'NN'), ('and', 'CC'), ('the', 'DT'), ('staff', 'NN'), ('is', 'VBZ'), ('not', 'RB'), ('good', 'JJ')], 2: [('Good', 'JJ'), ('hospital', 'NN'), ('.', '.')], 3: [('Visit', 'NN'), ('in', 'IN'), ('2013', 'CD')]}

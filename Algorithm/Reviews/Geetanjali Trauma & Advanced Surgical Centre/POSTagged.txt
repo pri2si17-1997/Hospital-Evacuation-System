@@ -1,0 +1,1 @@
+{1: [('Great', 'NN')], 2: [('Jhakaaas', 'NNP'), ('app', 'NN')]}

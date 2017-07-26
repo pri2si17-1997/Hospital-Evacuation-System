@@ -1,0 +1,1 @@
+{1: [('2', 'CD'), ('day', 'NN'), ('back', 'RB'), ('i', 'RB'), ('visited', 'VBN'), ('in', 'IN'), ('hospital', 'NN'), ('.', '.')], 2: [('Dr', 'NNP'), ('.', '.')], 3: [('Are', 'NNP'), ('seat', 'JJ'), ('4', 'CD'), ('pm..', 'NN')], 4: [('Staff', 'NNP'), ('are', 'VBP'), ('helping', 'VBG'), ('nature..', 'NNS')]}

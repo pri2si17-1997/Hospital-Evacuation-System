@@ -1,0 +1,1 @@
+[('HOSPITAL', 4), ('ORTHO', 3), ('FRIEND', 3), ('PHYSIO', 2), ('GNH HOSPITAL', 2), ('BLOOD TEST', 2), ('GURGAON', 2), ('YASH', 2), ('MRI', 2), ('PATIENT', 2), ('STAFF', 2), ('PROFIT', 2)]

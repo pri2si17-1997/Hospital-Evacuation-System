@@ -1,0 +1,1 @@
+[('MEDICINE', 3), ('HOSPITAL', 3), ('STORE', 2), ('PRICE', 2)]

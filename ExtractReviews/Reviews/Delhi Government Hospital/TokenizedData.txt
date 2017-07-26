@@ -1,0 +1,1 @@
+{1: 'its not a hospital .its a dispensary .', 2: 'wrong information', 3: 'good but crowdfull.it should be better facilities for everyone.', 4: 'Its Delhi Government hospital'}

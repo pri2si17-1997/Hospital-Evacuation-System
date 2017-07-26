@@ -1,0 +1,1 @@
+{1: 'Better hospitality I personally admitted.', 2: 'Good care staff and owner also take interest in hospital', 3: "Facilities are in place, ask for help and it's there.", 4: 'Lift is missing, little disappointing rest is okay.', 5: 'Doing good job', 6: 'Experienced staff', 7: 'It is a nice hospital'}

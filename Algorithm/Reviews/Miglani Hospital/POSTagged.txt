@@ -1,0 +1,1 @@
+{1: [('very', 'RB'), ('good', 'JJ'), ('for', 'IN'), ('people', 'NNS')]}

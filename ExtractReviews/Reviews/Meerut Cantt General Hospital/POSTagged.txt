@@ -1,0 +1,1 @@
+{1: [('Good', 'JJ'), ('service', 'NN'), ('hospital', 'NN')], 2: [('Good', 'JJ'), ('hospital', 'NN'), ('...', ':')], 3: [('Cantonment', 'NNP'), ('board', 'NN'), ('hospital', 'NN'), ('.', '.')], 4: [('Gr8', 'NN')]}

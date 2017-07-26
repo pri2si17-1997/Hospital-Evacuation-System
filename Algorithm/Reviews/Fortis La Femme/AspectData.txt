@@ -1,0 +1,1 @@
+[('BABY', 3), ('EXPERIENCE', 3), ('HOSPITAL', 3), ('DELIVERY', 2), ('EVERYTHING', 2), ('PREGNANCY', 2), ('DR', 2), ('BLOOD GROUP', 2)]

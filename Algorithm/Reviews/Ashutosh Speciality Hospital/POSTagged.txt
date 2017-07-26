@@ -1,0 +1,1 @@
+{1: [('Worst', 'NNP'), ('medical', 'JJ'), ('service', 'NN'), ('and', 'CC'), ('facilities', 'NNS'), ('.', '.')]}

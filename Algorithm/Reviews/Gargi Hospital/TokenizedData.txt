@@ -1,0 +1,1 @@
+{1: "Dr rahul don't know how to treat a patient.", 2: 'He is pediatrician.', 3: "He don't hear what parents are saying.", 4: 'He hardly give 2 minutes to the patients.', 5: 'I wasted my money and time to see Dr rahul.', 6: 'Parking problem.', 7: 'No proper management.', 8: 'Good hospital', 9: 'Good treatment on low cost', 10: 'Very good treatment on low cost'}

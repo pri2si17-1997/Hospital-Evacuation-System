@@ -1,0 +1,1 @@
+[('STAFF', 3), ('TREATMENT', 3), ('HOSPITAL', 3), ('ICU', 2), ('DOUBT', 2), ('EVERYTHING', 2), ('KNOWLEDGE', 2), ('CLEANNESS', 2)]

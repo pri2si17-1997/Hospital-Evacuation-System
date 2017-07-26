@@ -1,0 +1,1 @@
+{1: [('RAJ', 'NNP'), ('SHARMA', 'NNP'), ('H.N.412', 'NNP'), ('WARD', 'NNP'), ('N', 'NNP'), ('.', '.')], 2: [('7', 'CD'), ('GALI', 'NNP'), ('N', 'NNP'), ('.', '.')], 3: [('5', 'CD'), ('Adarsh', 'NNP'), ('Colony', 'NNP'), ('behind', 'IN'), ('bansal', 'JJ'), ('nursing', 'NN'), ('home', 'NN'), ('palwal', 'NN')], 4: [('Shyam', 'NNP'), ('villa', 'NN')]}

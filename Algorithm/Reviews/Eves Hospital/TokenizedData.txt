@@ -1,0 +1,1 @@
+{1: "It's very good Hospital.", 2: 'There are many great Doctors in the Hospital.', 3: 'Good hospital .and also at good location,i am very much satisfied with facilities provided by the Hospital.', 4: 'The hospital\xa0 environment is wonderful.', 5: 'Experienced and friendly doctors .', 6: 'Has a test tube baby center as well', 7: 'wonderful', 8: 'Good 🏥'}

@@ -1,0 +1,1 @@
+[('GNH HOSPITAL', 3), ('DR SMITA', 3), ('FRIEND', 3), ('GYNAECOLOGIST', 2), ('GURGAON', 2), ('DR SMITA VATS', 2), ('SISTER', 2)]

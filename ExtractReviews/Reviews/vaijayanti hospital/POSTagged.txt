@@ -1,0 +1,1 @@
+{1: [('Good', 'JJ'), ('private', 'JJ'), ('hospital', 'NN'), (',', ','), ('ENT', 'NNP'), ('department', 'NN'), ('and', 'CC'), ('x-ray', 'JJ'), ('available', 'JJ'), ('.', '.')], 2: [('Ok', 'NN')], 3: [('Good', 'JJ'), ('to', 'TO'), ('see', 'VB')]}

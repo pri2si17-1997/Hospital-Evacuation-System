@@ -1,0 +1,1 @@
+[('APPOINTMENT', 4), ('PHONE', 2), ('STAFF', 2), ('TIME', 2), ('LEAVE', 2)]

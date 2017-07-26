@@ -1,0 +1,1 @@
+{1: 'Ok.', 2: 'Very neat clean environment', 3: 'Dr.', 4: 'Magu is a good surgeon', 5: 'Good staff'}

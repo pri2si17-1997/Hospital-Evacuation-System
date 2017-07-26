@@ -1,0 +1,1 @@
+[('HOSPITAL', 9), ('INSURANCE', 3), ('DR', 3), ('PATIENT', 3), ('END', 2), ('ILLNESS', 2), ('DOCTOR', 2), ('HRS', 2), ('CERTIFICATE', 2), ('PROBLEM', 2), ('SUTOPA', 2), ('TIME', 2)]

@@ -1,0 +1,1 @@
+{1: [('Super', 'NNP'), ('fine', 'NN'), ('working', 'VBG')], 2: [('Mathura', 'NN')]}

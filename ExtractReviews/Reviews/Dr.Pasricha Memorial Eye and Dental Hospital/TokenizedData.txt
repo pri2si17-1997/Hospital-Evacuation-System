@@ -1,0 +1,1 @@
+{1: "I'm a staff member in Dr.pasricha Hospital..&I'm so happy go lucky person who get a chance to work in this Hospital.", 2: "I'm glad to b part of this Hospital", 3: 'Dr.Saab is very nice...& staff is also good', 4: 'Gr8 ....experience...', 5: 'Very much good hospital', 6: 'Good hospital', 7: 'nice facility'}

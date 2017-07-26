@@ -1,0 +1,1 @@
+{1: [('Best', 'RBS'), ('place', 'NN'), ('with', 'IN'), ('low', 'JJ'), ('rates', 'NNS')], 2: [('Fantastic', 'NNP'), ('care', 'NN'), ('and', 'CC'), ('professional', 'JJ'), (',', ','), ('caring', 'JJ'), ('staff', 'NN'), ('.', '.')], 3: [('It', 'PRP'), ("'s", 'VBZ'), ('Okey', 'JJ')], 4: [('Awessome', 'NN')]}

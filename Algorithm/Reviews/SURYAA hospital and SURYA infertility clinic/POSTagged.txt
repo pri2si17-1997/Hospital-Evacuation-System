@@ -1,0 +1,1 @@
+{1: [('Sanjay', 'NNP'), ('saini', 'NN'), ('gangoh', 'NN'), ('saharanpur', 'NN')]}

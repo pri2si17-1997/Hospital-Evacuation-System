@@ -1,0 +1,1 @@
+{1: [('It', 'PRP'), ("'s", 'VBZ'), ('very', 'RB'), ('good', 'JJ'), ('Hospital', 'NN'), ('.', '.')], 2: [('There', 'EX'), ('are', 'VBP'), ('many', 'JJ'), ('great', 'JJ'), ('Doctors', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('Hospital', 'NNP'), ('.', '.')]}

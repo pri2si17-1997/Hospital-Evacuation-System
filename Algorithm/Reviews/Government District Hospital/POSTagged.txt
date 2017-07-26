@@ -1,0 +1,1 @@
+{1: [('It', 'PRP'), ("'s", 'VBZ'), ('accuracy', 'NN'), ('is', 'VBZ'), ('sooperb', 'JJ')]}

@@ -1,0 +1,1 @@
+{1: [('This', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('best', 'JJS'), ('eye', 'NN'), ('hospital', 'NN'), ('I', 'PRP'), ('have', 'VBP'), ('visited', 'VBN'), ('eber', 'NN')]}

@@ -1,0 +1,1 @@
+{1: 'Very poor communication system, not any one attend telephones, website number is not corrects.', 2: 'Run by specialist eye surgeon Dr Shroff of Delhi,I have been told that he visits once in a 2 months rest other doctors take care.', 3: 'great charity work done by doctors at the hospital', 4: 'Good', 5: 'best'}

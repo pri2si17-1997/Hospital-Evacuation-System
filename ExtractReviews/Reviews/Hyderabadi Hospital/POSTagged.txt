@@ -1,0 +1,1 @@
+{1: [('Have', 'VB'), ('good', 'JJ'), ('medical', 'JJ'), ('facility', 'NN'), (',', ','), ('crowded', 'VBD'), ('but', 'CC'), ('not', 'RB'), ('clean', 'JJ')], 2: [('Cost', 'NN'), ('efficient', 'JJ'), ('hospital', 'NN')], 3: [('Full', 'NNP'), ('facilities..', 'NN')], 4: [('Best', 'JJS')]}

@@ -1,0 +1,1 @@
+[('PATIENT', 3), ('BLEEDING', 2), ('CARE', 2)]

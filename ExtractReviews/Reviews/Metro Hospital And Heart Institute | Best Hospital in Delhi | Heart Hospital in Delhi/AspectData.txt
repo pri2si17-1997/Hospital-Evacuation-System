@@ -1,0 +1,1 @@
+[('STAFF', 2), ('HOSPITAL', 2)]

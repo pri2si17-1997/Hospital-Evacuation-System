@@ -1,0 +1,1 @@
+{1: [('Worst', 'NNP'), ('customer', 'NN'), ('care', 'NN'), ('experience', 'NN'), ('on', 'IN'), ('telephone', 'NN'), ('.', '.')], 2: [('Dr', 'NNP'), ('.', '.')], 3: [('Kalra', 'NNP'), ('best', 'JJS'), ('ever..', 'NN')], 4: [('nest', 'JJS'), ('hospital', 'NN')], 5: [('Good', 'JJ'), ('Hospital', 'NNP'), ('.', '.')], 6: [('I', 'PRP'), ('am', 'VBP'), ('born', 'VBN'), ('here', 'RB')]}

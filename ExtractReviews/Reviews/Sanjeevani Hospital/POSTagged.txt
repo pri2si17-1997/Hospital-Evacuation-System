@@ -1,0 +1,1 @@
+{1: [('Good', 'JJ')], 2: [('Maternity', 'NNP'), ('home', 'NN'), ('&', 'CC'), ('children', 'NNS'), ('hospital', 'NN')]}

@@ -1,0 +1,1 @@
+[('HOSPITAL', 6), ('CLINIC', 5), ('C', 3), ('B', 3), ('MIGRAINE', 2), ('BABY', 2), ('DOCTOR', 2), ('CONSULTANCY', 2), ('MAX', 2), ('TREATMENT', 2), ('FRAUD', 2), ('TOMORROW', 2), ('A', 2), ('EYE CHECKUP', 2)]

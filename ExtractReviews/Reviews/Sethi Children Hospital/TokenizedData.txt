@@ -1,0 +1,1 @@
+{1: 'Worst nursing Service of male staff', 2: 'Poor cleaniness', 3: 'The worstest thing is the way of talking on hospital', 4: 'They treat you like you beggars for them', 5: 'But effictive treatment', 6: 'best children hospital in alwar'}

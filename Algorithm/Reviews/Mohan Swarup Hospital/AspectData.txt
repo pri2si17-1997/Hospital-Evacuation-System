@@ -1,0 +1,1 @@
+[('TREATMENT', 4), ('STORE', 2)]

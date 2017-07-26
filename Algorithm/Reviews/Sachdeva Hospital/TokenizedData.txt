@@ -1,0 +1,1 @@
+{1: 'Nice staff and good doctors.', 2: 'All equipments also available.', 3: 'Good caring of patients.', 4: 'Nice staff.', 5: 'N good setup hospital on good location..'}
