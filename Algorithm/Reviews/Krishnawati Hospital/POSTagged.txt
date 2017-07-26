@@ -1,1 +1,0 @@
-{1: [('Best', 'NNP'), ('service', 'NN'), ('.', '.')], 2: [('Time', 'NNP'), ('to', 'TO'), ('time', 'NN'), ('nurse', 'JJ'), ('check', 'NN'), ('patient', 'NN'), ('.', '.')], 3: [('ok', 'NN')]}

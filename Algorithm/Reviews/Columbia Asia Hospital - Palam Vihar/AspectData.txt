@@ -1,1 +1,0 @@
-[('SOMEONE', 3), ('HOSPITAL', 3), ('FACILITY', 2), ('STAFF', 2), ('I', 2)]

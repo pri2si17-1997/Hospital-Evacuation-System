@@ -1,1 +1,0 @@
-{1: [('This', 'DT'), ('is', 'VBZ'), ('not', 'RB'), ('Mehta', 'NNP'), ('Hospital', 'NNP'), (',', ','), ('this', 'DT'), ('is', 'VBZ'), ('some', 'DT'), ('nagpal', 'JJ'), ('hospital', 'NN'), (',', ','), ('original', 'JJ'), ('Mehta', 'NNP'), ('Hospital', 'NNP'), ('is', 'VBZ'), ('near', 'IN'), ('neelam', 'JJ'), ('cinema', 'NN')]}

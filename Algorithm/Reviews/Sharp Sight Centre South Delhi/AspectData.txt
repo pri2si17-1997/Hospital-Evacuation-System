@@ -1,1 +1,0 @@
-[('EXPERIENCE', 4), ('MOM', 2), ('SATISFACTION', 2), ('FIRM', 2), ('EYE PATIENT', 2), ('STAFF', 2), ('LOT', 2)]

@@ -1,1 +1,0 @@
-{1: [('ĹÁß', 'CD'), ('technition', 'NN')], 2: [('Lootera', 'NNP'), ('hai', 'NN'), ('.logo', 'NNP'), ('ki', 'NNP'), ('jaan', 'NN'), ('se', 'NN'), ('khilwad', 'NN'), ('karta', 'NN'), ('hai', 'NN'), ('.', '.')], 3: [('Is', 'VBZ'), ('ko', 'JJ'), ('jail', 'NN'), ('me', 'PRP'), ('dalna', 'JJ'), ('chahiye', 'NN'), ('.', '.')]}

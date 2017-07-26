@@ -1,1 +1,0 @@
-{1: [('Affordable', 'JJ'), ('and', 'CC'), ('proper', 'JJ'), ('treatment', 'NN'), ('by', 'IN'), ('doctor', 'NN'), ('...', ':')], 2: [('Best', 'NNP'), ('Hospital', 'NN')]}

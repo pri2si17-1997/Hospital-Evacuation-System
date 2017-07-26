@@ -1,1 +1,0 @@
-{1: 'Affordable Rates', 2: 'V gud', 3: 'Hate service', 4: 'Kidney Hospital', 5: 'good.'}

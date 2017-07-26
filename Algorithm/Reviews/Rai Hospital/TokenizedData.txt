@@ -1,1 +1,0 @@
-{1: 'Not have sufficient facilities', 2: '4 years ago', 3: 'Haya'}

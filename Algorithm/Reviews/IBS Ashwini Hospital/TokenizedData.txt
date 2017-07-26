@@ -1,1 +1,0 @@
-{1: 'On main road!', 2: '!', 3: 'Easy to found', 4: 'Good hospital'}

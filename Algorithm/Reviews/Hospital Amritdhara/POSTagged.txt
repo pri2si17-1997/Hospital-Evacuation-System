@@ -1,1 +1,0 @@
-{1: [('Very', 'RB'), ('bad', 'JJ'), ('services', 'NNS'), ('...', ':'), ('Doctors', 'NNPS'), ('doing', 'VBG'), ('experiment', 'NN'), ('on', 'IN'), ('patients', 'NNS'), ('.', '.')], 2: [('Go', 'VB'), ('if', 'IN'), ('you', 'PRP'), ('want', 'VBP'), ('to', 'TO'), ('loss', 'NN'), ('ur', 'JJ'), ('patient', 'NN')], 3: [('Dr', 'NNP'), ('.', '.')], 4: [('Rajiv', 'NNP'), ('gupta', 'NN')]}

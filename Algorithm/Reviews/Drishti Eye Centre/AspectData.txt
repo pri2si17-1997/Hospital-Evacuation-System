@@ -1,1 +1,0 @@
-[('DR', 3), ('EXPERIENCE', 2), ('VINEETA', 2)]

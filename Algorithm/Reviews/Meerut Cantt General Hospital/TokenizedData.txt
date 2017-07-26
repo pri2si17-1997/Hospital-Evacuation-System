@@ -1,1 +1,0 @@
-{1: 'Good service hospital', 2: 'Good hospital...', 3: 'Cantonment board hospital.', 4: 'Gr8'}

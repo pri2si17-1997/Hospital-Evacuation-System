@@ -1,1 +1,0 @@
-{1: 'Not the best hospital and the staff is not good', 2: 'Good hospital.', 3: 'Visit in 2013'}

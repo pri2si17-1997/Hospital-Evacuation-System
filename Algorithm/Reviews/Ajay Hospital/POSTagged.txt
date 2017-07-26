@@ -1,1 +1,0 @@
-{1: [('Awesome', 'NNP'), ('facilities', 'NNS'), ('good', 'JJ'), ('doctors', 'NNS'), ('etc', 'VBP')], 2: [('Hospital', 'NN'), ('is', 'VBZ'), ('running', 'VBG'), ('Good', 'NNP'), ('.', '.')], 3: [('Hospital', 'NN'), ('with', 'IN'), ('nice', 'JJ'), ('facilities', 'NNS')], 4: [('Exelent', 'NN')], 5: [('Bobby', 'NNP'), ('Rajput', 'NNP')]}

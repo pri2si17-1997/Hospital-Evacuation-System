@@ -1,1 +1,0 @@
-[('DR', 3), ('HOSPITAL', 2), ('I', 2), ('DOC', 2), ('CONSULTATION', 2), ('COZ', 2)]

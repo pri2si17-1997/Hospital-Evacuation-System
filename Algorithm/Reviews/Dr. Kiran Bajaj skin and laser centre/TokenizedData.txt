@@ -1,1 +1,0 @@
-{1: 'The practitioner elucidates the issue very clearly and prescribed best medicines.', 2: 'Very satisfactory service.', 3: 'Best skin specialist', 4: 'worst ever!!', 5: '!', 6: 'The doc prescribes expensive medicines that has no effect !!', 7: '!', 8: 'not good!', 9: '!'}

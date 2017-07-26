@@ -1,1 +1,0 @@
-{1: [('Renovated', 'VBN'), ('all', 'DT'), ('Hospital', 'NNP'), ('n', 'JJ'), ('Dr', 'NNP'), ('.', '.')], 2: [('N', 'JJ'), ('staff', 'NN'), ('is', 'VBZ'), ('nice', 'JJ'), ('nature', 'NN'), ('...', ':'), ('.', '.')]}

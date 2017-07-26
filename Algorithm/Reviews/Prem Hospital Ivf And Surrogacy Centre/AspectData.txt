@@ -1,1 +1,0 @@
-[('PREM TEST TUBE BABY CENTRE', 4), ('HOSPITAL', 3), ('IVF', 2)]

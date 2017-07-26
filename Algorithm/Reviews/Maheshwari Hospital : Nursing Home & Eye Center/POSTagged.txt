@@ -1,1 +1,0 @@
-{1: [('Mah', 'NNP'), ('favourite', 'JJ'), ('place', 'NN')], 2: [('Excellent', 'JJ'), ('upcoming', 'VBG'), ('Multi-Speciality', 'NNP'), ('Hospital', 'NNP'), ('in', 'IN'), ('Muzaffarnagar', 'NNP'), ('.', '.')]}

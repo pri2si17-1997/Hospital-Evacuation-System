@@ -1,1 +1,0 @@
-{1: [('Well', 'NNP'), ('known', 'NNP'), ('&', 'CC'), ('nicely', 'RB'), ('facilitated', 'JJ'), ('Hospital', 'NNP'), ('.', '.')], 2: [('Nice', 'NNP'), ('Hospital', 'NNP')]}

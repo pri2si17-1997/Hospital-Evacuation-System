@@ -1,1 +1,0 @@
-{1: 'Well services across meerut area.', 2: 'Biggest kidney hospital in meerut.', 3: 'Helpful information, thanks', 4: 'Better for treatment', 5: 'kidney hospital'}

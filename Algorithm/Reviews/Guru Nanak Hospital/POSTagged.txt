@@ -1,1 +1,0 @@
-{1: [('Good', 'JJ'), ('staff', 'NN')], 2: [('Orthopedic', 'NNP'), ('n', 'JJ'), ('Gynecologist', 'NNP'), ('best', 'JJS'), ('Hospital', 'NN')]}

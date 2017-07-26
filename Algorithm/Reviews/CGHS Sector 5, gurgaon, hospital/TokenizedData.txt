@@ -1,1 +1,0 @@
-{1: 'Staff and Doctors are good in behaviour.', 2: 'Well managed.', 3: 'Good', 4: 'Super', 5: 'Nice'}

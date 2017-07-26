@@ -1,1 +1,0 @@
-[('NAME', 4), ('DR', 3), ('EMERGENCY', 3), ('RAJEEV', 2), ('DOCTOR', 2), ('A.M', 2), ('SAROJ HOSPITAL', 2)]

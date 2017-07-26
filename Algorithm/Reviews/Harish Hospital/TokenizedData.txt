@@ -1,1 +1,0 @@
-{1: 'the sympathetic attitude of the doctor is warmly charming.', 2: 'cleanliness and care are satisfying'}

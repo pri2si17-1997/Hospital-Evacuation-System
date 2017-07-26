@@ -1,1 +1,0 @@
-{1: "It's good facilities bt it is very expensive", 2: 'Good facilities', 3: 'Emergency', 4: 'On road', 5: 'nice hospital .i like it.', 6: 'One of the best hospital in Bharatpur', 7: 'Good but costly...'}

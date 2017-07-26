@@ -1,1 +1,0 @@
-[('PATIENT', 3), ('STAFF', 3), ('DOCTOR', 3), ('REPORT', 3), ('SURGERY', 2), ('TEST', 2), ('DELIVERY', 2), ('DELHI', 2), ('CARDIOLOGIST', 2), ('PM', 2), ('PHARMICIST', 2)]

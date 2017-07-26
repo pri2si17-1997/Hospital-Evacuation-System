@@ -1,1 +1,0 @@
-{1: 'Good service and instantly response.', 2: 'And good behaviour staff and dr.navdeep', 3: 'Got my hair transplant done.', 4: 'very good teamwork.', 5: 'personalized care.', 6: 'Very knowledgeable Staff and great services.', 7: 'Best clinic for hair transplant', 8: 'Good'}

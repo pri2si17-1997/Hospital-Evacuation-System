@@ -1,1 +1,0 @@
-[('HOSPITAL', 12), ('DOCTOR', 7), ('PATIENT', 7), ('EMERGENCY', 4), ('CARE', 4), ('FRIEND', 4), ('EMERGENCY WARD', 3), ('MEERUT/DELHI', 3), ('REGION', 2), ('MONEY', 2), ('REACTION', 2), ('NIGHT', 2), ('DIAGNOSIS', 2), ('SHAME', 2), ('ADVICE', 2), ('TREATMENT', 2), ('AM', 2), ('CITY', 2), ('VOVERON INJECTION', 2)]

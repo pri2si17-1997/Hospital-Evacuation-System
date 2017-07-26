@@ -1,1 +1,0 @@
-{1: 'Excellent W.R.Hospital.TKD', 2: 'Good Dispensionary'}

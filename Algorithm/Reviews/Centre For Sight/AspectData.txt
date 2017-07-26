@@ -1,1 +1,0 @@
-[('EXPERIENCE', 2), ('SIGHT', 2), ('DAY', 2)]

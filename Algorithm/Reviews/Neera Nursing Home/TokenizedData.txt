@@ -1,1 +1,0 @@
-{1: 'The best maternity clinic in karnal.', 2: 'Not like other doctor who will opt C SECTION in every delivery.', 3: 'I bet 80% of the delivery is normal in this clinic.', 4: 'All facility includes inhouse ultrasound, rooms with attach washroom, proper sitting area.', 5: 'Money Making machine...', 6: 'No care by doctor .only by nurses.', 7: 'Gyne'}

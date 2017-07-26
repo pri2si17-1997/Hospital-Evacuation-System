@@ -1,1 +1,0 @@
-[('JHAJJAR', 4), ('HOSPITAL', 2), ('KIND', 2)]

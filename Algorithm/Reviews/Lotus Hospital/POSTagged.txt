@@ -1,1 +1,0 @@
-{1: [('God', 'NNP'), ('and', 'CC'), ('not', 'RB'), ('to', 'TO'), ('much', 'JJ'), ('expansive', 'NN')], 2: [('Staff', 'NNP'), ('is', 'VBZ'), ('very', 'RB'), ('good', 'JJ')], 3: [('Nice', 'NNP'), ('hospital', 'NN')]}

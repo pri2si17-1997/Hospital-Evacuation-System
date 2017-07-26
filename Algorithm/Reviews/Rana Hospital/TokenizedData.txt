@@ -1,1 +1,0 @@
-{1: 'The staff here is awesome and well experienced...', 2: 'Everyone Doing a great job at rana hospital.', 3: 'Very good hospital in bulandshahr and  cear full staff', 4: 'Very good hospital in distrect bulandshahr', 5: 'Very very good hospital', 6: 'Khurja city'}

@@ -1,1 +1,0 @@
-[('HOSPITAL', 4), ('MAX', 4), ('ADIVA', 3), ('ADIVA HOSPITAL', 3), ('DECISION', 2), ('NURSERY', 2), ('INFECTION', 2), ('LIFE', 2)]

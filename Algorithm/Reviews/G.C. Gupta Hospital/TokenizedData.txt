@@ -1,1 +1,0 @@
-{1: 'best hospital', 2: 'Good hospital.', 3: 'good', 4: 'A good hospital', 5: 'So so'}

@@ -1,1 +1,0 @@
-{1: 'First medical college in chitwan.', 2: 'Its first of its kind in operation around this area and contributed many free checkup camps', 3: 'good servece', 4: 'good hospital', 5: 'Best...collage...in nepal', 6: 'Good Doctors  re  well trained and experience holders and educated'}

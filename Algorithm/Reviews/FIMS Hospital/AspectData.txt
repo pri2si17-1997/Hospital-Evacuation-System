@@ -1,1 +1,0 @@
-[('FIMS', 3), ('DELHI', 3), ('TREATMENT', 3), ('STAFF', 2)]

@@ -1,1 +1,0 @@
-[('HOSPITAL', 4), ('PANIPAT', 2), ('NUMBERING SYSTEM', 2), ('CARE', 2)]

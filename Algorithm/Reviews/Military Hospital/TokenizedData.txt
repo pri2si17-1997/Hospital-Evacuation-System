@@ -1,1 +1,0 @@
-{1: 'Big and highly maintained facility.', 2: 'Hygiene is better.', 3: 'Good services but mostly ex-servicemen are sent out for treatment.', 4: 'Good hygiene maintenance.', 5: 'Everything computerised from Entry to Pharmacy.', 6: 'Good Military Hospital.', 7: 'Army personal facilities only'}

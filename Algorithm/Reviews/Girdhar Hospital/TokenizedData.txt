@@ -1,1 +1,0 @@
-{1: 'Nice hospital', 2: 'Excellent hospital', 3: 'Ok'}

@@ -1,1 +1,0 @@
-{1: [('Good', 'JJ'), ('hospitality', 'NN'), ('services', 'NNS')], 2: [('Good', 'JJ'), ('for', 'IN'), ('Trauma', 'NNP'), ('peasants', 'NNS'), ('.', '.')], 3: [('good', 'JJ')]}

@@ -1,1 +1,0 @@
-{1: 'best hosital', 2: 'Nice Hospital all facilities easily available ...', 3: 'good', 4: 'Pahuja hospital', 5: 'Urology and ultrasound center', 6: 'Shabnam.'}

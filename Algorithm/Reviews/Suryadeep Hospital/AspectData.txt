@@ -1,1 +1,0 @@
-[('STAFF', 3), ('SURYADEEP HOSPITAL', 2), ('NURSE', 2), ('TOWN', 2), ('HOSPITAL', 2)]

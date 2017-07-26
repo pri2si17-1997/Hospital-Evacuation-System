@@ -1,1 +1,0 @@
-{1: [('the', 'DT'), ('sympathetic', 'JJ'), ('attitude', 'NN'), ('of', 'IN'), ('the', 'DT'), ('doctor', 'NN'), ('is', 'VBZ'), ('warmly', 'RB'), ('charming', 'VBG'), ('.', '.')], 2: [('cleanliness', 'NN'), ('and', 'CC'), ('care', 'NN'), ('are', 'VBP'), ('satisfying', 'VBG')]}

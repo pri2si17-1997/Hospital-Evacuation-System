@@ -1,1 +1,0 @@
-{1: [('Best', 'NNP'), ('Medical', 'NNP'), ('Shop', 'NNP'), ('in', 'IN'), ('bhiwani', 'NN'), ('with', 'IN'), ('a', 'DT'), ('good', 'JJ'), ('person', 'NN'), ('Dr', 'NNP'), ('.', '.')], 2: [('Subhash', 'NNP'), ('Chand', 'NNP'), ('Arora..', 'NNP')]}

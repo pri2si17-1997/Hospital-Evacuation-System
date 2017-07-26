@@ -1,1 +1,0 @@
-{1: 'Excellent doctors with utmost care and that too at meagre rates... Hats off to the team', 2: 'Very goos hospital @ very good staff', 3: 'Nice doctors', 4: 'A place for normal medical solution', 5: 'Nice'}

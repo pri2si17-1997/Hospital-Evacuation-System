@@ -1,1 +1,0 @@
-{1: 'Economical than others.', 2: 'Paramedical staff is not good.', 3: 'Convenience of a 24 functioning hospital with all basic health services at zero cost in neighbourhood', 4: 'its okay if you have cash crunch but better and clean then most of govt hospital', 5: 'Good Hospital with good facility...but crowded also', 6: 'Staff is very rude..'}

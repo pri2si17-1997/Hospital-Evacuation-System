@@ -1,1 +1,0 @@
-[('HOSPITAL', 6), ('FAMILY', 3), ('ORGANISATION', 2), ('OPD', 2), ('MATTER', 2), ('HEALTH', 2), ('EMERGENCY', 2)]

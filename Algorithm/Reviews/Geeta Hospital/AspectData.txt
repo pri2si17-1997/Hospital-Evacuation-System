@@ -1,1 +1,0 @@
-[('HOSPITAL', 5), ('STAFF', 4), ('TREATMENT', 3), ('CARE', 3), ('VIGO', 3), ('DR', 3), ('DISCHARGE', 2), ('PAIN', 2), ('MOM', 2), ('EVERYTHING', 2), ('DELIVERY', 2), ('DOCTOR', 2), ('MEDICLAIM', 2), ('HAND', 2)]

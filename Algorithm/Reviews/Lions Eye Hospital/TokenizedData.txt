@@ -1,1 +1,0 @@
-{1: 'Very high quality surgery work by Dr.', 2: 'Anant Vir Jain.', 3: 'Well managed hospital.', 4: 'Keep doing good work', 5: 'Nice', 6: 'Eye Hospital'}

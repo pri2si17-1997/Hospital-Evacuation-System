@@ -1,1 +1,0 @@
-{1: [('My', 'PRP$'), ('son', 'NN'), ('Shreyas', 'NNP'), ('was', 'VBD'), ('born', 'VBN'), ('here', 'RB'), ('.', '.')], 2: [('This', 'DT'), ('place', 'NN'), ('has', 'VBZ'), ('a', 'DT'), ('special', 'JJ'), ('place', 'NN'), ('in', 'IN'), ('my', 'PRP$'), ('heart', 'NN'), ('.', '.')]}

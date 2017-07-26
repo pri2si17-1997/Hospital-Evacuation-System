@@ -1,1 +1,0 @@
-[('PATIENT', 4), ('HOSPITAL', 3), ('DOCTOR', 2), ('FAMILY', 2)]

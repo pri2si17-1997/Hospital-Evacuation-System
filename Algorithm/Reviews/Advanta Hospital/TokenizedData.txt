@@ -1,1 +1,0 @@
-{1: 'Hostpital is close house', 2: 'This is the only Multi Speciality hospital in jhajjar.', 3: 'First multi speciality Hospital in Jhajjar even Advanta Hospital providing all kind of facilities at such kind of place......Awesome...... That is good for Jhajjar and near by..villages..', 4: 'Best hospital in jhajjar', 5: 'Best Hospital in Jhajjar city'}

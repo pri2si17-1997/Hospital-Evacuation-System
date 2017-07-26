@@ -1,1 +1,0 @@
-{1: 'Great experience i had.', 2: 'Dr.', 3: 'Ashish makes his patients comfortable so effortlessly.', 4: '5 stars', 5: 'I am extremely pleased with the service i received at City Dental clinic.', 6: 'Great Experience..'}

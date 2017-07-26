@@ -1,1 +1,0 @@
-{1: 'Good private hospital,  ENT department and x-ray available.', 2: 'Ok', 3: 'Good to see'}

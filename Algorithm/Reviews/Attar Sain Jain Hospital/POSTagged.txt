@@ -1,1 +1,0 @@
-{1: [('Best', 'RBS'), ('Government', 'NNP'), ('Eye', 'NNP'), ('Hospital', 'NNP'), ('Neat', 'NNP'), ('Village', 'NNP'), (':', ':'), ('Jorbagh', 'NNP'), (',', ','), ('Tri', 'NNP'), ('Nagar', 'NNP'), (',', ','), ('Delhi', 'NNP'), ('-', ':'), ('35', 'CD')], 2: [('Good', 'JJ')], 3: [('Rani', 'NNP'), ('Baghdad', 'NNP')]}

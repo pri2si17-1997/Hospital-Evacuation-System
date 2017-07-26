@@ -1,1 +1,0 @@
-{1: 'Doctors are good but bed sheets not washed properly.', 2: 'I feel cheated', 3: 'Nice hospital.', 4: 'Has made its reputation in Karnal in short time.', 5: 'Everthing is gud but Dr.is not reached there in right time.', 6: 'A hospital chain that provide better service for less price', 7: 'Very great'}

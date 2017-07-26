@@ -1,1 +1,0 @@
-{1: [('Amritdhara', 'NNP'), ('is', 'VBZ'), ('very', 'RB'), ('famous', 'JJ'), ('&', 'CC'), ('good', 'JJ'), ('hospital', 'NN'), ('in', 'IN'), ('Karnal', 'NNP')], 2: [('Good', 'JJ'), ('doctor', 'NN')], 3: [('It', 'PRP'), ("'s", 'VBZ'), ('under', 'IN'), ('condition', 'NN')], 4: [('Awesome', 'NNP')]}

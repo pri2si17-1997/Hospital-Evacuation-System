@@ -1,1 +1,0 @@
-[('DR', 8), ('SURGERY', 5), ('AWADH', 4), ('SANJEEV SINGHAL', 3), ('HOSPITAL', 3), ('ALWAR', 3), ('DATE', 2), ('BHABHI', 2), ('DOCTOR', 2), ('BEST', 2), ('THING', 2), ('DAY', 2), ('ADMIT', 2), ('BROTHER', 2), ('OPERATION', 2), ('TODAY', 2), ('RATING', 2)]

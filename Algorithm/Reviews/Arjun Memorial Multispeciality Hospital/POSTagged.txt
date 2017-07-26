@@ -1,1 +1,0 @@
-{1: [('Arjun', 'NNP'), ('Hospital', 'NNP'), ('is', 'VBZ'), ('good', 'JJ'), ('service', 'NN'), ('providing', 'VBG'), ('in', 'IN'), ('affordable', 'JJ'), ('prise', 'NN')]}

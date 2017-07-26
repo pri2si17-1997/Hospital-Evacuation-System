@@ -1,1 +1,0 @@
-{1: [('Nice', 'JJ'), ('nature', 'NN'), ('Dr', 'NNP'), ('.', '.')], 2: [('Monday', 'NNP'), ('opd', 'VBD'), ('free', 'JJ'), ('from', 'IN'), ('10', 'CD'), ('to', 'TO'), ('12', 'CD'), ('AM', 'NNP'), ('.', '.')], 3: [('Best', 'JJS'), ('thing', 'NN'), ('ever', 'RB'), ('.', '.')]}

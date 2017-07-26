@@ -1,1 +1,0 @@
-[('BEHL HOSPITAL', 7), ('BEHL', 6), ('DR', 6), ('HOSPITAL', 4), ('PATIENT', 4), ('TREATMENT', 3), ('TEAM', 3), ('STAFF', 3), ('CHILD', 3), ('FRIEND', 2), ('BEHAVIOR', 2), ('DOCTOR', 2), ('DAY', 2), ('LEG', 2), ('HAND', 2), ('ULTRASOUND', 2), ('EVERYONE', 2), ('CONDITION', 2)]

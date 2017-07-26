@@ -1,1 +1,0 @@
-{1: 'Dr punit is very nice persone .', 2: 'Very nice  doctors and nice staff ..  good facilities  for patients  and caring staff .', 3: 'My Experience is really good in this hospital ..', 4: 'Very nice & Sincere Doctor & Staff ...', 5: 'Very supporting and caring doctor & staff !'}

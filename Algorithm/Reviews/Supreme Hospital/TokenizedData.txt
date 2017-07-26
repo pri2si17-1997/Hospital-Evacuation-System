@@ -1,1 +1,0 @@
-{1: 'ĹÁß technition', 2: 'Lootera hai .logo ki jaan se khilwad karta hai.', 3: 'Is ko jail me dalna chahiye.'}

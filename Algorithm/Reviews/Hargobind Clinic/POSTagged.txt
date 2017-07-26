@@ -1,1 +1,0 @@
-{1: [('Highly', 'NNP'), ('professional', 'JJ'), ('and', 'CC'), ('humane', 'VB'), ('too', 'RB'), ('!', '.')], 2: [('Good', 'JJ')], 3: [('Good', 'JJ')], 4: [('good', 'JJ')]}

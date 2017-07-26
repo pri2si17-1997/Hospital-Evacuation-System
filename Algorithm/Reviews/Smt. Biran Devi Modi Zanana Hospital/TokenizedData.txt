@@ -1,1 +1,0 @@
-{1: 'Needs a lot of upgradation', 2: 'Good services', 3: "It's is very discomfort travel in hapur....", 4: 'East Asia Pacific', 5: 'average facitlies'}

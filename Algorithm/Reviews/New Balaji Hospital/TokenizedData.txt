@@ -1,1 +1,0 @@
-{1: 'Best place with low rates', 2: 'Fantastic care and professional, caring staff.', 3: "It's Okey", 4: 'Awessome'}

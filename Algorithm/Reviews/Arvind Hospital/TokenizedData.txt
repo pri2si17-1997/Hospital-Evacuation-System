@@ -1,1 +1,0 @@
-{1: 'Best hospital for kids..', 2: 'Best neuro', 3: 'Neuro Surgeon Hospital with all higher Equipment.....', 4: 'Better than most other child specialists in karnal', 5: 'One of the best hospital for kids in Karnal'}

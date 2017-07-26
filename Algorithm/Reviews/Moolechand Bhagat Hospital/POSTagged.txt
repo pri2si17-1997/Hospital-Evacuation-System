@@ -1,1 +1,0 @@
-{1: [('Nice', 'NNP'), ('Hospital', 'NNP'), ('.', '.')], 2: [('very', 'RB'), ('professional', 'JJ'), ('managed', 'VBD'), ('hospital', 'NN')], 3: [('I', 'PRP'), ('born', 'VBP'), ('here', 'RB'), ('on', 'IN'), ('5/8/1978', 'CD')]}

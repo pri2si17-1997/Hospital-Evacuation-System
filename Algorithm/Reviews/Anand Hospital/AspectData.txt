@@ -1,1 +1,0 @@
-[('PATIENT', 11), ('FATHER', 6), ('HOSPITAL', 6), ('HEART', 5), ('*', 5), ('DOCTOR', 3), ('STAFF', 3), ('TIME', 3), ('REASON', 2), ('CASE', 2), ('ICU', 2), ('VENTILATOR', 2)]

@@ -1,1 +1,0 @@
-{1: [('Staff', 'NNP'), ('and', 'CC'), ('Doctors', 'NNS'), ('are', 'VBP'), ('good', 'JJ'), ('in', 'IN'), ('behaviour', 'NN'), ('.', '.')], 2: [('Well', 'RB'), ('managed', 'VBN'), ('.', '.')], 3: [('Good', 'JJ')], 4: [('Super', 'NN')], 5: [('Nice', 'NN')]}

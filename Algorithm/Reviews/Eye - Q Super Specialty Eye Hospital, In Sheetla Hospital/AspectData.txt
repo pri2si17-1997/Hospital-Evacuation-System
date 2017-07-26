@@ -1,1 +1,0 @@
-[('MOTHER', 3), ('SURGERY', 2), ('MONEY', 2), ('PROCEDURE', 2), ('STAFF', 2), ('DOCTOR', 2)]

@@ -1,1 +1,0 @@
-{1: 'Good hospital', 2: 'Show off type hospital but still providing the needed things', 3: 'Best', 4: 'BAD Hospital in palwal haryana', 5: 'Multi Speciality Hospital in the region of Palwal, Haryana.'}

@@ -1,1 +1,0 @@
-{1: 'Highly professional and humane too!', 2: 'Good', 3: 'Good', 4: 'good'}

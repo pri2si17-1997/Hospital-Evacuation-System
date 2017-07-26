@@ -1,1 +1,0 @@
-{1: 'Maintained cleaning outside the hospital.', 2: 'Little bit difficulty to identify this hospital because the front level of ground is higher and availability of trees'}

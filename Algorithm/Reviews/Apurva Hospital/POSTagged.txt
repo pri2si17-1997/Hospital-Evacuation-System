@@ -1,1 +1,0 @@
-{1: [('Ok', 'NN'), ('.', '.')], 2: [('Very', 'RB'), ('neat', 'JJ'), ('clean', 'JJ'), ('environment', 'NN')], 3: [('Dr', 'NNP'), ('.', '.')], 4: [('Magu', 'NNP'), ('is', 'VBZ'), ('a', 'DT'), ('good', 'JJ'), ('surgeon', 'NN')], 5: [('Good', 'JJ'), ('staff', 'NN')]}

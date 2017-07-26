@@ -1,1 +1,0 @@
-{1: [('Found', 'VBN'), ('very', 'RB'), ('clean', 'JJ'), ('hygienic', 'JJ'), ('n', 'NN'), ('reasonable', 'JJ'), ('price..👌👌👌', 'NN')]}

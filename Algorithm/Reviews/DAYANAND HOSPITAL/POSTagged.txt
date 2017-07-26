@@ -1,1 +1,0 @@
-{1: [('Really', 'RB'), ('nice', 'JJ'), ('hospital', 'NN'), ('and', 'CC'), ('good', 'JJ'), ('service', 'NN'), ('.', '.')], 2: [('place', 'NN'), ('is', 'VBZ'), ('short', 'JJ')], 3: [('Good', 'JJ')]}

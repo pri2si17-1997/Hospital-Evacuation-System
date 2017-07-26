@@ -1,1 +1,0 @@
-[('FACULTY', 2), ('PLACE', 2), ('HOSPITAL', 2), ('CHAIRMAN', 2)]

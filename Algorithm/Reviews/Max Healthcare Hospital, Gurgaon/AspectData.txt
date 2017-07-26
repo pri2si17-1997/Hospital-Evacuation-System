@@ -1,1 +1,0 @@
-[('HOSPITAL', 5), ('EMERGENCY', 2), ('WIFE', 2), ('HEAD', 2)]

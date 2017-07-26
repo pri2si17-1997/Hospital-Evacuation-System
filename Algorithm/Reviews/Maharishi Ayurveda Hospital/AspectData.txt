@@ -1,1 +1,0 @@
-[('HOSPITAL', 5), ('MEDICINE', 4), ('FIANCE', 3), ('TREATMENT', 3), ('PATANJALI', 2), ('FOOD', 2), ('BODY', 2), ('SALT', 2), ('COMPARE', 2)]

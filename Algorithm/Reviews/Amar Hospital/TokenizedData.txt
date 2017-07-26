@@ -1,1 +1,0 @@
-{1: 'Well known & nicely facilitated Hospital.', 2: 'Nice Hospital'}

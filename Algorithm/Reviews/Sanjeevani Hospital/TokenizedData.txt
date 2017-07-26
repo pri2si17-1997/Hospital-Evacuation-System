@@ -1,1 +1,0 @@
-{1: 'Good', 2: 'Maternity home & children hospital'}

@@ -1,1 +1,0 @@
-[('HOSPITAL', 6), ('STAFF', 4), ('ORGANIZATION', 2), ('THING', 2), ('TREATMENT', 2), ('EYE', 2), ('ANYTHING', 2), ('CURRENCY', 2), ('WAY', 2)]

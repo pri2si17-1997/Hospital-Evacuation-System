@@ -1,1 +1,0 @@
-{1: [('It', 'PRP'), ('is', 'VBZ'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('best', 'JJS'), ('place', 'NN'), ('for', 'IN'), ('refinement', 'NN'), ('of', 'IN'), ('Body', 'NNP'), ('Architecture', 'NNP'), ('.', '.')]}

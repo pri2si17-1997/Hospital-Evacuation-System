@@ -1,1 +1,0 @@
-[('GOVERNMENT HOSPITAL', 3)]

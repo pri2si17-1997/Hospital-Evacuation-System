@@ -1,1 +1,0 @@
-{1: 'Many facility and best service', 2: 'Good hospital and have many facilitys', 3: 'Good for minor problems', 4: 'Emergency case are available', 5: 'best in this city'}

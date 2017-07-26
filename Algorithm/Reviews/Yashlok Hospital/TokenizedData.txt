@@ -1,1 +1,0 @@
-{1: 'Staff is very supportive & well educated.', 2: 'staff is best', 3: 'Good nursing facility', 4: 'Good hospital'}

@@ -1,1 +1,0 @@
-[('DELIVERY', 3), ('OPERATION', 2), ('DR', 2), ('MONEY', 2)]

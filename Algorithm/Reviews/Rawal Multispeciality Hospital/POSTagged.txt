@@ -1,1 +1,0 @@
-{1: [('It', 'PRP'), ("'s", 'VBZ'), ('a', 'DT'), ('good', 'JJ'), ('small', 'JJ'), ('hospital', 'NN')], 2: [('Dr.amit', 'NNP'), ('Rawal', 'NNP'), ('is', 'VBZ'), ('a', 'DT'), ('good', 'JJ'), ('doctor', 'NN')]}

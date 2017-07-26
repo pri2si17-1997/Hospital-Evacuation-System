@@ -1,1 +1,0 @@
-[('LAB', 3), ('EXPERIENCE', 3), ('TIME', 2), ('HOSPITAL', 2), ('DR CHETNA JAIN', 2)]

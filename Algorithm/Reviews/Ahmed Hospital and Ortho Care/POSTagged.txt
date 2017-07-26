@@ -1,1 +1,0 @@
-{1: [('It', 'PRP'), ("'s", 'VBZ'), ('good', 'JJ'), ('...', ':'), ('my', 'PRP$'), ('experience', 'NN'), ('was', 'VBD'), ('good', 'JJ'), ('.', '.')]}

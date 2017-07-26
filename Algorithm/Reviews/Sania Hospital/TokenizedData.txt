@@ -1,1 +1,0 @@
-{1: 'Ok', 2: 'Good', 3: 'Best hospital in Alwar', 4: 'Best'}

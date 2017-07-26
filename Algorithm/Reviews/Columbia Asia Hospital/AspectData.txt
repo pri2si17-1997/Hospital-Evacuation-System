@@ -1,1 +1,0 @@
-[('HOSPITAL', 4), ('SUPPORT', 2), ('AJAY', 2), ('STAFF', 2), ('KIND', 2), ('CONSULTATION', 2)]
