@@ -1,0 +1,1 @@
+{1: [('Ok', 'NN')], 2: [('Good', 'JJ')], 3: [('Best', 'JJS'), ('hospital', 'NN'), ('in', 'IN'), ('Alwar', 'NNP')], 4: [('Best', 'JJS')]}

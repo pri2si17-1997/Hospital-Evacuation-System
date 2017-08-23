@@ -1,0 +1,1 @@
+{1: 'One of the renowned and caring hospital of Sonipat Distt.', 2: '.Good treatment,medicines shop also available in the complex.', 3: 'But is not so much hygienic,neat n clean environment.', 4: 'Best heart dental and obs Gynac hospital', 5: 'Treatment is best but somehow cleanness and maintaince are poor as popularity', 6: 'Good Hospital', 7: 'Best heart care hospital'}

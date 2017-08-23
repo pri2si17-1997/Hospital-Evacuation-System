@@ -1,0 +1,1 @@
+{1: [('On', 'IN'), ('main', 'JJ'), ('road', 'NN'), ('!', '.')], 2: [('!', '.')], 3: [('Easy', 'NNP'), ('to', 'TO'), ('found', 'VB')], 4: [('Good', 'JJ'), ('hospital', 'NN')]}

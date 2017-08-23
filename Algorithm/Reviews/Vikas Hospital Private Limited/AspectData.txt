@@ -1,0 +1,1 @@
+[('SURGERY', 3), ('COST', 3), ('MRI', 2), ('CARE', 2), ('CASE', 2), ('HOSPITAL', 2)]

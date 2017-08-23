@@ -1,0 +1,1 @@
+{1: [('Excellent', 'JJ'), ('ENT', 'NNP'), ('hospital', 'NN'), ('.', '.')], 2: [('Very', 'RB'), ('experienced', 'JJ'), ('doctor', 'NN'), ('Dr', 'NNP'), ('.', '.')], 3: [('Mukesh', 'NNP'), ('Gupta', 'NNP'), ('.', '.')]}

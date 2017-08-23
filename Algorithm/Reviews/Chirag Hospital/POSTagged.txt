@@ -1,0 +1,1 @@
+{1: [('Very', 'RB'), ('Good', 'JJ'), ('health', 'NN'), ('services', 'NNS')]}

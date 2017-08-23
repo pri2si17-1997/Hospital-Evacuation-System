@@ -1,0 +1,1 @@
+[('STAFF', 5), ('HOSPITAL', 5), ('EXPERIENCE', 3), ('KIND', 2), ('WARD', 2), ('MANAV MANCHANDA', 2), ('GRANDMOTHER', 2)]

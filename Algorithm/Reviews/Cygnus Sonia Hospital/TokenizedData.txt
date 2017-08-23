@@ -1,0 +1,1 @@
+{1: 'Good connectivity with many ambulances and cost effective various OPD departments.', 2: 'Nice place but faculty was not so good', 3: 'Hospital area is niche but suff is fresher', 4: 'Ok', 5: 'Good'}

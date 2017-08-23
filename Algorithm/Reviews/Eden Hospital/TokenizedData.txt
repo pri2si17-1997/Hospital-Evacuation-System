@@ -1,0 +1,1 @@
+{1: 'Nice hospital,providing cashless facility.', 2: 'Cashless Facility also available', 3: 'Eden hospitel', 4: 'good cashless facility', 5: 'okay okay types'}

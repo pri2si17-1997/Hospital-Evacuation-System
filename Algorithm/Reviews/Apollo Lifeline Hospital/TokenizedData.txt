@@ -1,0 +1,1 @@
+{1: 'Good', 2: 'Very good hospital.', 3: 'Good Hospital', 4: 'Now it is Park Hospital.'}

@@ -1,0 +1,1 @@
+[('AMBULANCE', 3), ('DOCTOR', 3), ('HOSPITAL', 3), ('HOSPITAL PHARMACY', 2), ('MONEY', 2), ('GRANDFATHER', 2), ('MIN', 2), ('EMERGENCY', 2), ('TIME', 2)]

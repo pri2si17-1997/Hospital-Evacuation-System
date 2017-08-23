@@ -1,0 +1,1 @@
+{1: [('Hospital', 'NN'), ('for', 'IN'), ('fertility', 'NN'), ('regarding', 'NN'), ('problem', 'NN')], 2: [('Best', 'NNP'), ('care', 'NN'), ('of', 'IN'), ('patients', 'NNS')], 3: [('Nice', 'NN')], 4: [('Puja', 'NNP'), ('Sharma', 'NNP')]}

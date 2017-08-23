@@ -1,0 +1,1 @@
+{1: 'There hav good staff', 2: 'Good Staff.', 3: 'Well known hospital in Karnal, specially in Sector 7', 4: 'Sec 7.', 5: 'Best hoapital...', 6: 'Good'}

@@ -1,0 +1,1 @@
+{1: 'Treatment here is the best and fast.................', 2: 'GOOD', 3: '☆☆☆☆'}

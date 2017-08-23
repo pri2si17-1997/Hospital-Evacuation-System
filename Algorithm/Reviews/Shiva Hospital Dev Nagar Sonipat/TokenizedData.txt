@@ -1,0 +1,1 @@
+{1: "A charitable Hospital meant for poor people who can't afford to pay high charges for medical services.", 2: 'Its good... Nice atmosphere here...', 3: 'Best hospital in budget', 4: 'Super special:-)', 5: 'Worst hospital'}

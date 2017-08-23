@@ -1,0 +1,1 @@
+{1: 'Have good medical facility, crowded but not clean', 2: 'Cost efficient hospital', 3: 'Full facilities..', 4: 'Best'}

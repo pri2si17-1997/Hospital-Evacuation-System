@@ -1,0 +1,1 @@
+[('HOSPITAL', 7), ('TREATMENT', 5), ('MONEY', 4), ('TIME', 3), ('STORY', 2), ('DOCTOR', 2), ('PROFESSION', 2), ('EXPERIENCE', 2), ('PRICE', 2), ('STAFF', 2), ('FRONT', 2), ('JAIPUR GOLDEN', 2)]

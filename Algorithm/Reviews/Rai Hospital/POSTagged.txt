@@ -1,0 +1,1 @@
+{1: [('Not', 'RB'), ('have', 'VB'), ('sufficient', 'NN'), ('facilities', 'NNS')], 2: [('4', 'CD'), ('years', 'NNS'), ('ago', 'RB')], 3: [('Haya', 'NN')]}
